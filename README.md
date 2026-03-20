@@ -1,2 +1,3 @@
-# micro-quiz-platform-n5hu
-Automated issue comment bot repository
+# Micro Quiz Platform N5Hu
+
+Automated issue comment bot repository.
